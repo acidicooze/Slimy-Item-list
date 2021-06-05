@@ -6697,7 +6697,7 @@
 		"defname": "CoS_Perdition_Flamethrower"
 	},
 	{
-		"abr": "c-14"impaler"",
+		"abr": "c-14impaler",
 		"price": 808,
 		"category": "Ranged weapons",
 		"defname": "CoS_C14_Gun"
@@ -11539,7 +11539,7 @@
 		"defname": "Anon2CounterAFull"
 	},
 	{
-		"abr": "mkiv"catachan"lascarbine(i)",
+		"abr": "mkivcatachanlascarbine(i)",
 		"price": 967,
 		"category": "Ranged weapons",
 		"defname": "OGI_Gun_LasGun_Catachan"
@@ -13585,7 +13585,7 @@
 		"defname": "FSFProstheticEye"
 	},
 	{
-		"abr": "dino"milk"",
+		"abr": "dinomilk",
 		"price": 5,
 		"category": "Animal products",
 		"defname": "GR_DinoMilk"
@@ -17731,19 +17731,19 @@
 		"defname": "RD_HoloDisk"
 	},
 	{
-		"abr": "ak-107"synchronizer",
+		"abr": "ak-107synchronizer",
 		"price": 1000,
 		"category": "Ranged weapons",
 		"defname": "TMC_IAR_AKOneZeroSeven"
 	},
 	{
-		"abr": "deserteagle"thursday"",
+		"abr": "deserteaglethursday",
 		"price": 467,
 		"category": "Ranged weapons",
 		"defname": "TMC_IAR_Deagle"
 	},
 	{
-		"abr": "m1a"ronin"",
+		"abr": "m1aronin",
 		"price": 658,
 		"category": "Ranged weapons",
 		"defname": "TMC_IAR_MOneASocom"
@@ -17761,7 +17761,7 @@
 		"defname": "VCE_RawApple"
 	},
 	{
-		"abr": "sks"interchange"",
+		"abr": "sksinterchange",
 		"price": 792,
 		"category": "Ranged weapons",
 		"defname": "TMC_IAR_SKSTapco"
@@ -17779,7 +17779,7 @@
 		"defname": "RG_AncientGraveFull"
 	},
 	{
-		"abr": "s12"taiga"",
+		"abr": "s12taiga",
 		"price": 783,
 		"category": "Ranged weapons",
 		"defname": "TMC_IAR_Taiga"
@@ -19339,7 +19339,7 @@
 		"defname": "Wall_SterileBlue"
 	},
 	{
-		"abr": "m97"trenchgun"",
+		"abr": "m97trenchgun",
 		"price": 500,
 		"category": "Ranged weapons",
 		"defname": "GN_TrenchShotgun"
@@ -19351,7 +19351,7 @@
 		"defname": "Wall_SterileGreen"
 	},
 	{
-		"abr": "m97"trenchgun"withbayonet",
+		"abr": "m97trenchgunwithbayonet",
 		"price": 525,
 		"category": "Ranged weapons",
 		"defname": "GN_TrenchShotgun_B"
